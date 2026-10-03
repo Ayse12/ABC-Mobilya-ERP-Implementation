@@ -74,5 +74,5 @@
 
 | Role | Name | Title | Status | Date |
 | :--- | :--- | :--- | :--- | :--- |
-| **Client Sign-off** | Ahmet Yılmaz | Operations Director (COO) | Approved | 03.10.2026 |
-| **Lead Analyst** | [Adın Soyadın] | Senior ERP Implementation Consultant | Approved | 03.10.2026 |
+| **Client Sign-off** | Mehmet Yıldırım | Operations Director (COO) | Approved | 03.10.2026 |
+| **Lead Analyst** | Ayşe İlhanlı | Senior ERP Implementation Consultant | Approved | 03.10.2026 |
