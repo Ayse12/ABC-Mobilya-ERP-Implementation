@@ -1,0 +1,16 @@
+ref,name,customer_rank,supplier_rank,vat,function,phone,email,street,city,country_id/code,comment
+TRK-001,Orman Ürünleri A.Ş.,0,1,1230456789,Mehmet Yılmaz (Satış Müdürü),+90 212 555 0101,satis@ormanurunleri.com,"İkitelli OSB, 5. Cadde No:12",İstanbul,TR,Ham Madde (MDF/Panel)
+TRK-002,Kadife Kumaş Tekstil Ltd. Şti.,0,1,9870654325,Ayşe Kaya (Müşteri Temsilcisi),+90 224 444 0202,bilgi@kadifekumas.com,"Demirtaş OSB, Mavi Sok. No:8",Bursa,TR,Kumaş & Döşeme
+TRK-003,Konfor Sünger Sanayi TİC. A.Ş.,0,1,4560789127,Murat Demir (Sevkiyat Sorumlusu),+90 224 715 0303,siparis@konforsunger.com,"İnegöl OSB, 1. Bulvar No:45",Bursa,TR,Sünger & Dolgu
+TRK-004,Güven Hırdavat & Ray Sistemleri,0,1,6540987320,Selin Çelik (Satış),+90 224 240 0404,satis@guvenhirdavat.com,"Küçük Sanayi Sitesi, 12. Blok No:3",Bursa,TR,Hırdavat & Aksesuar
+TRK-005,Master Ambalaj & Koli Sanayi,0,1,3210654981,Ali Öztürk (Planlama),+90 212 613 0505,info@masterambalaj.com,Topçular Mah. Maltepe Cad. No:88,İstanbul,TR,Ambalaj & Paketleme
+TRK-006,Hız Lojistik ve Taşımacılık A.Ş.,0,1,7890123451,Burak Şahin (Operasyon),+90 212 474 0606,operasyon@hizlojistik.com,Hadımköy Lojistik Merkezi No:14,İstanbul,TR,Lojistik & Nakliye
+MUS-001,Zeynep Demir,1,0,10293847510,Bireysel Müşteri,+90 532 111 2233,zeynep.demir@gmail.com,Moda Cad. Caferağa Mah. No:42 D:5,İstanbul,TR,Bireysel (Perakende)
+MUS-002,Ahmet Arslan,1,0,56473829150,Bireysel Müşteri,+90 533 222 3344,ahmet.arslan@outlook.com,Fatih Sultan Mehmet Bulvarı No:105,Bursa,TR,Bireysel (Perakende)
+MUS-003,Trend Ev Mobilya Mağazaları A.Ş.,1,0,8520963745,Caner Kılıç (Satınalma Müdürü),+90 212 285 0707,satinalma@trendev.com,Büyükdere Cad. Maslak Plaza K:8,İstanbul,TR,Bayi / Toptan
+MUS-004,Pera Luxury Otelcilik A.Ş.,1,0,9630852143,Deniz Arslan (Proje Koordinatörü),+90 212 252 0808,proje@perahotel.com,Meşrutiyet Cad. No:65 Beyoğlu,İstanbul,TR,Kurumsal / Proje
+MUS-005,Apex Mimarlık & İç Tasarım Ltd.,1,0,7410852968,Elif Doğan (İç Mimar),+90 312 440 0909,mimar@apextasarim.com,Arjantin Cad. No:24/3 Çankaya,Ankara,TR,Mimar / Tasarım Bürosu
+MUS-006,Nord Design Furniture GmbH,1,0,DE987654321,Hans Weber (Import Manager),+49 30 1234567,h.weber@norddesign.de,Friedrichstraße 100,Berlin,DE,Yurt Dışı (İhracat)
+MUS-007,Al-Nour Trading Co. LLC,1,0,AE123456789,Tariq Mansoor (Procurement Head),+971 4 3216549,info@alnourtrading.ae,"Business Bay, Tower B Office 1204",Dubai,AE,Yurt Dışı (İhracat)
+MUS-008,Ege Yaşam Konutları A.Ş.,1,0,1590753480,Hakan Savaş (Şantiye Şefi),+90 232 463 1010,ahsap@egeyasam.com,Atatürk Caddesi No:180 Alsancak,İzmir,TR,Kurumsal / Proje
+MUS-009,Serkan & Merve Öztürk,1,0,98765432150,Bireysel Müşteri,+90 535 444 5566,serkan.ozturk@gmail.com,Atatürk Mahallesi Çiçek Sok. No:12 D:4,İstanbul,TR,Bireysel (Düğün Paketi)
