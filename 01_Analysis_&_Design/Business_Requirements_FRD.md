@@ -2,7 +2,7 @@
 # 📄 Functional Requirement Document (FRD)
 **Project Name:** AhşapDünyası Mobilya ERP Digital Transformation  
 **Target Organization:** AhşapDünyası Mobilya San. ve Tic. A.Ş.  
-**Author:** [Adın Soyadın] (Lead ERP Business Analyst)  
+**Author:** [Ayşe İlhanlı] (Lead ERP Business Analyst)  
 **Version:** v1.0 | **Date:** October 2026  
 
 ---
@@ -11,7 +11,7 @@
 
 | Version | Date | Description | Author | Approved By |
 | :--- | :--- | :--- | :--- | :--- |
-| v1.0 | 03.10.2026 | Baseline FRD Creation for To-Be ERP Model | [Adın Soyadın] | Operations Steering Committee |
+| v1.0 | 03.10.2026 | Baseline FRD Creation for To-Be ERP Model | [Ayşe ilhanlı] | Operations Steering Committee |
 
 ---
 
