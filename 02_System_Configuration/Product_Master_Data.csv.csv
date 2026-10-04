@@ -1,0 +1,33 @@
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Name,"İç Referans / Stok Kodu
+(Internal Reference / SKU)","Barkod
+(Barcode)","Ürün Kategorisi
+(Product Category)","Satış Fiyatı (₺)
+(Sales Price)","Maliyet (₺)
+(Cost)","Eldeki Miktar
+(Quantity on Hand)","Ölçü Birimi
+(Unit of Measure)","Ürün Türü
+(Product Type)","Toplam Stok Değeri (₺)
+(Total Inventory Value)"
+Lexus 3'lü Koltuk (Gri Kumaş),STK-KLT-001,8690001001015,Oturma Odası / Koltuklar,"24,500.00 ₺","14,200.00 ₺",15,Adet,Stoklanabilir Ürün,"213,000.00 ₺"
+Lexus Tekli Berjer (Gri Kumaş),STK-KLT-002,8690001001022,Oturma Odası / Koltuklar,"11,200.00 ₺","6,400.00 ₺",22,Adet,Stoklanabilir Ürün,"140,800.00 ₺"
+Verona L Köşe Koltuk Takımı,STK-KLT-003,8690001001039,Oturma Odası / Koltuklar,"38,500.00 ₺","22,000.00 ₺",8,Adet,Stoklanabilir Ürün,"176,000.00 ₺"
+Ahşap Ceviz TV Ünitesi (180 cm),STK-TVU-001,8690001002012,Oturma Odası / TV Üniteleri,"14,800.00 ₺","8,100.00 ₺",12,Adet,Stoklanabilir Ürün,"97,200.00 ₺"
+Mermer Desenli Orta Sehpa,STK-SHP-001,8690001003019,Oturma Odası / Sehpalardan,"4,500.00 ₺","2,300.00 ₺",30,Adet,Stoklanabilir Ürün,"69,000.00 ₺"
+Zigon Sehpa Seti (3'lü Meşe),STK-SHP-002,8690001003026,Oturma Odası / Sehpalardan,"3,200.00 ₺","1,650.00 ₺",45,Adet,Stoklanabilir Ürün,"74,250.00 ₺"
+Nordic 6 Kişilik Yemek Masası,STK-YMK-001,8690001004016,Yemek Odası / Masalar,"18,900.00 ₺","10,500.00 ₺",10,Adet,Stoklanabilir Ürün,"105,000.00 ₺"
+Nordic Döşemeli Sandalye,STK-YMK-002,8690001004023,Yemek Odası / Sandalyeler,"2,800.00 ₺","1,450.00 ₺",64,Adet,Stoklanabilir Ürün,"92,800.00 ₺"
+Nordic Konsol & Aynalık,STK-YMK-003,8690001004030,Yemek Odası / Konsollar,"21,500.00 ₺","12,200.00 ₺",6,Adet,Stoklanabilir Ürün,"73,200.00 ₺"
+Kral Çift Kişilik Baza & Başlık (160x200),STK-YTK-001,8690001005013,Yatak Odası / Bazalar,"19,500.00 ₺","11,000.00 ₺",14,Adet,Stoklanabilir Ürün,"154,000.00 ₺"
+Ortopedik Visco Yatak (160x200),STK-YTK-002,8690001005020,Yatak Odası / Yataklar,"12,800.00 ₺","6,900.00 ₺",18,Adet,Stoklanabilir Ürün,"124,200.00 ₺"
+Sürgülü 6 Kapaklı Gardırop,STK-YTK-003,8690001005037,Yatak Odası / Gardıroplar,"32,000.00 ₺","18,500.00 ₺",5,Adet,Stoklanabilir Ürün,"92,500.00 ₺"
+Sera 2 Çekmeceli Komidin,STK-YTK-004,8690001005044,Yatak Odası / Komidinler,"3,400.00 ₺","1,800.00 ₺",25,Adet,Stoklanabilir Ürün,"45,000.00 ₺"
+Ergonomik Çalışma Masası (140 cm),STK-CAL-001,8690001006010,Çalışma Odası / Masalar,"8,500.00 ₺","4,600.00 ₺",20,Adet,Stoklanabilir Ürün,"92,000.00 ₺"
+Fileli Yönetici Koltuğu,STK-CAL-002,8690001006027,Çalışma Odası / Koltuklar,"6,200.00 ₺","3,200.00 ₺",15,Adet,Stoklanabilir Ürün,"48,000.00 ₺"
+5 Raflı Kitaplık (Metal/Ahşap),STK-CAL-003,8690001006034,Çalışma Odası / Kitaplıklar,"4,900.00 ₺","2,500.00 ₺",28,Adet,Stoklanabilir Ürün,"70,000.00 ₺"
+Sünger Duman Gri (M3),STK-HM-001,8690001007017,Hammadde / Doldurma,"1,250.00 ₺",850.00 ₺,120,m³,Stoklanabilir Ürün,"102,000.00 ₺"
+Döşemelik Tay Tüyü Kumaş (Metre),STK-HM-002,8690001007024,Hammadde / Kumaş,350.00 ₺,210.00 ₺,450,Metre,Stoklanabilir Ürün,"94,500.00 ₺"
+Mobilya Montaj & Kurulum Hizmeti,SER-MNT-001,8690001008014,Hizmetler,750.00 ₺,250.00 ₺,0,Saat,Hizmet,0.00 ₺
+Özel Ölçü Tasarım & Danışmanlık,SER-DSN-001,8690001008021,Hizmetler,"1,500.00 ₺",500.00 ₺,0,Saat,Hizmet,0.00 ₺
