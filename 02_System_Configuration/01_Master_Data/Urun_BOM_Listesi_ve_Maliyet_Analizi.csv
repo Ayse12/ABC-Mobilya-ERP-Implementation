@@ -1,0 +1,46 @@
+,,,,,
+BOM kodu,Ürün kodu ,Ürün Adı / BOM Bileşen Açıklaması,Kullanım Miktarı,Ölçü Birimi,Birim Maliyet (₺)
+bom_001,STK-YTK-003,18 mm MDF Lam Panel,12.00,Plaka,₺500.00
+bom_001,STK-YTK-003,3 mm MDF Arkalık Panel,3.00,Adet,₺220.00
+bom_001,STK-YTK-003,Sürgü Ray & Mekanizma Seti,1.00,Takım,"₺2,400.00"
+bom_001,STK-YTK-003,Alüminyum Dikey Kulp Profili,12.00,Metre,₺180.00
+bom_001,STK-YTK-003,Minifiks & Montaj Bağlantı Seti,24.00,Adet,₺22.00
+bom_002,STK-KLT-002,İskelet Lik Gürgen Kereste,0.35,m³,"₺18,000.00"
+bom_002,STK-KLT-002,Döşemelik Dokuma Kumaş (Gri),10.00,m,₺320.00
+bom_002,STK-KLT-002,35 DNS Sünger (Oturum & Sırt),15.00,kg,₺195.00
+bom_004,STK-KLT-001,İskelet Lik Gürgen Kereste,0.35,m³,"₺18,000.00"
+bom_004,STK-KLT-001,Döşemelik Dokuma Kumaş (Gri),14.50,m,₺320.00
+bom_004,STK-KLT-001,35 DNS Sünger (Oturum & Sırt),18.20,kg,₺195.00
+bom_005,STK-SHP-001,  Mermer Desen Kompozit / MDF Tabla,1.00,Adet,₺650.00
+bom_005,STK-SHP-001,  Elektrostatik Toz Boyalı Metal Ayak,1.00,Set,₺380.00
+bom_005,STK-SHP-001,  Montaj Civata & Bağlantı Ekipmanı,1.00,Paket,₺45.00
+bom_006,STK-SHP-002,Meşe Kaplama Sehpa Tablası (3 Boy),3.00,Adet,₺180.00
+bom_006,STK-SHP-002,Masif Ahşap Sehpa Ayağı,12.00,Adet,₺45.00
+bom_006,STK-SHP-002,Koruyucu Vernik & Cilalama,0.80,Litre,₺150.00
+bom_007,STK-YMK-001,Masif Meşe/MDF Masa Tablası (160x90),1.00,Adet,"₺1,850.00"
+bom_007,STK-YMK-001,Nordic Tasarım Ahşap Masa Ayakları,4.00,Adet,₺210.00
+bom_007,STK-YMK-001,Açılır Mekanizma & Ray Sistem,1.00,Set,₺520.00
+bom_008,STK-YMK-002, Kontra İskelet & Masif Ayaklar,1.00,Set,₺420.00
+bom_008,STK-YMK-003,Ketensi Dokuma Kumaş & Sünger,1.20,Metre,₺180.00
+bom_008,STK-YMK-004,Montaj Civata & Bağlantı Elemanları,1.00,Paket,₺25.00
+bom_009,STK-YMK-003,MDF Lam Gövde & Kapak Panelleri,3.00,Plaka,₺820.00
+bom_009,STK-YMK-003,Flotal Ayna (Aynalık Paneli İçin),1.00,Adet,₺450.00
+bom_009,STK-YMK-003,Bas-Aç Menteşe ve Ahşap Ayaklar,1.00,Set,₺360.00
+bom_010,STK-YTK-001,Çelik Profil Baza İskeleti & Amortisör,1.00,Set,"₺2,100.00"
+bom_010,STK-YTK-001,Döşemelik Tay Tüyü Kumaş & Elyaf,8.50,Metre,₺160.00
+bom_010,STK-YTK-001,Yatak Yüzeyi Yonga Levha & Başlık MDF,2.00,Plaka,₺650.00
+bom_011,STK-YTK-002,Paket Yay Sistemi & Torba Dizilimi,1.00,Set,"₺1,450.00"
+bom_011,STK-YTK-002,Visco & Yüksek Yoğunluklu Sünger Katmanı,1.00,Blok,"₺1,800.00"
+bom_011,STK-YTK-002,Antibakteriyel Örme Yatak Kumaşı & Fermuar,6.00,Metre,₺110.00
+bom_012,STK-YTK-004, Suntalam/MDF Gövde Plakası,1.00,Plaka,₺550.00
+bom_012,STK-YTK-004,Teleskopik Çekmece Rayı,2.00,Takım,₺65.00
+bom_012,STK-YTK-004,Metal Kulp & Ahşap Ayak Seti,1.00,Set,₺120.00
+bom_013,STK-CAL-001,Suntalam Masa Tablası (140x70),1.00,Adet,₺480.00
+bom_013,STK-CAL-001,Elektrostatik Metal Ayak Şasesi,1.00,Takım,₺620.00
+bom_013,STK-CAL-001,Kablo Kanalı & Grommet Aksesuarı,1.00,Set,₺85.00
+bom_014,STK-CAL-002,  Ergonomik Fileli Sırt & Oturum İskeleti,1.00,Set,₺850.00
+bom_014,STK-CAL-002,  Multi-Tilt Senkron Mekanizma & Amortisör,1.00,Set,₺540.00
+bom_014,STK-CAL-002,  Alüminyum Yıldız Ayak & Tekerlek Seti,1.00,Set,₺420.00
+bom_015,STK-CAL-003, Profil Metal Yan İskelet/Karkas,2.00,Adet,₺340.00
+bom_015,STK-CAL-003,Ahşap Desenli Raf Tablası,5.00,Adet,₺115.00
+bom_015,STK-CAL-003, Çapraz Gergi Teli & Bağlantı Vidaları,1.00,Paket,₺60.00
