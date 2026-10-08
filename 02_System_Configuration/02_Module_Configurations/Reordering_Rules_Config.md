@@ -1,6 +1,7 @@
 # ⚙️ İkmal Kuralları ve Otomatik Satınalma Konfigürasyonu (REQ-007)
 
-**Proje Adı:** AhşapDünyası Mobilya ERP Dijital Dönüşümü  
+**Proje Adı:** ABC Mobilya ERP Dijital Dönüşümü  
+**Hedef Kurum:** ABC Mobilya San. ve Tic. A.Ş.  
 **Modül:** Stok (Depo) & Satınalma  
 **Gereksinim Referansı:** REQ-007 (Minimum/Maksimum Emniyet Stoğu ve Otomatik PR Motoru)  
 **Yazar:** Kıdemli ERP İş Analisti  
@@ -9,7 +10,7 @@
 ---
 
 ## 1. İş İçeriği ve Amaç
-AhşapDünyası Mobilya A.Ş., takip edilmeyen ham madde stok tükenmeleri nedeniyle sık sık üretim duraksamaları yaşamaktaydı. Mevcut durum (As-Is) süreçlerinde, malzeme eksiklikleri üretim sahasında manuel olarak fark ediliyor; bu da ciddi teslimat gecikmelerine ve atıl iş gücüne yol açıyordu.
+ABC Mobilya A.Ş., takip edilmeyen ham madde stok tükenmeleri nedeniyle sık sık üretim duraksamaları yaşamaktaydı. Mevcut durum (As-Is) süreçlerinde, malzeme eksiklikleri üretim sahasında manuel olarak fark ediliyor; bu da ciddi teslimat gecikmelerine ve atıl iş gücüne yol açıyordu.
 
 Manuel stok kontrollerini ortadan kaldırmak ve üretim iş emirleri için malzeme kullanılabilirliğini garanti altına almak amacıyla **Odoo İkmal Kuralları (Min/Max Kuralları)** kurgulanmıştır. Bu otomatik mekanizma, stok eşiklerini anlık olarak izleyerek ve otomatik satınalma talepleri oluşturarak **REQ-007** gereksinimini tam olarak karşılamaktadır.
 
@@ -24,14 +25,14 @@ Manuel stok kontrollerini ortadan kaldırmak ve üretim iş emirleri için malze
 
 ### 2.2 İkmal Kuralları Ana Tablosu
 
-| Ürün Kodu | Ürün Açıklaması | Kategori | Min Miktar (Emniyet) | Max Miktar (Hedef) | Birim | Varsayılan Tedarikçi |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `HM-MDF-018` | MDF Plaka 18mm (180x240) | Ham Maddeler | 10 | 50 | Adet | Kroam Ahşap A.Ş. |
-| `HM-KUM-001` | Tay Tüyü Gri Kumaş | Ham Maddeler | 25 | 100 | Metre | TeknoKumaş Tekstil |
-| `HM-CIL-001` | Ahşap Cila / Vernik (Mat) | Ham Maddeler | 5 | 25 | Litre | Kroam Ahşap A.Ş. |
-| `HM-VID-001` | Masa Bağlantı Vida Seti | Hırdavat | 20 | 100 | Set | Yerel Tedarikçi |
+|  Ürün Açıklaması | Kategori | Min Miktar (Emniyet) | Max Miktar (Hedef) | Birim | Varsayılan Tedarikçi |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| MDF Plaka 18mm (180x240) | Ham Maddeler | 10 | 50 | Adet | Kroam Ahşap A.Ş. |
+| Tay Tüyü Gri Kumaş | Ham Maddeler | 25 | 100 | Metre | TeknoKumaş Tekstil |
+| Ahşap Cila / Vernik (Mat) | Ham Maddeler | 5 | 25 | Litre | Kroam Ahşap A.Ş. |
+| Masa Bağlantı Vida Seti | Hırdavat | 20 | 100 | Set | Yerel Tedarikçi |
 
-*(Not: 10'dan fazla ürünün tüm ikmal kuralları haritası `02_System_Configuration/01_Master_Data/Reordering_Rules_Master.xlsx` dosyasında saklanmaktadır.)*
+*(Not: 10'dan fazla ürünün tüm ikmal kuralları haritası `02_System_Configuration/Fuctional_Requirements/Reordering_Rules_Master.xlsx` dosyasında saklanmaktadır.)*
 
 ---
 
@@ -46,5 +47,5 @@ Manuel stok kontrollerini ortadan kaldırmak ve üretim iş emirleri için malze
 
 ## 4. Doğrulama ve Test Kanıtları
 
-* **Konfigürasyon Dosyası:** `02_System_Configuration/01_Master_Data/Reordering_Rules_Master.xlsx`
+* **Konfigürasyon Dosyası:** `02_System_Configuration/Fuctional_Requirements/Reordering_Rules_Master.xlsx`
 * **Sistem Ekran Görüntüsü:** `03_Testing_&_Simulation/screenshots/02_Reordering_Rules_List.png`
