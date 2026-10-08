@@ -27,10 +27,10 @@ Manuel stok kontrollerini ortadan kaldırmak ve üretim iş emirleri için malze
 
 |  Ürün Açıklaması | Kategori | Min Miktar (Emniyet) | Max Miktar (Hedef) | Birim | Varsayılan Tedarikçi |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| MDF Plaka 18mm (180x240) | Ham Maddeler | 10 | 50 | Adet | Kroam Ahşap A.Ş. |
-| Tay Tüyü Gri Kumaş | Ham Maddeler | 25 | 100 | Metre | TeknoKumaş Tekstil |
-| Ahşap Cila / Vernik (Mat) | Ham Maddeler | 5 | 25 | Litre | Kroam Ahşap A.Ş. |
-| Masa Bağlantı Vida Seti | Hırdavat | 20 | 100 | Set | Yerel Tedarikçi |
+| MDF Plaka 18mm (180x240) | Ham Maddeler | 10 | 50 | Adet | *** |
+| Tay Tüyü Gri Kumaş | Ham Maddeler | 25 | 100 | Metre | *** |
+| Ahşap Cila / Vernik (Mat) | Ham Maddeler | 5 | 25 | Litre | *** |
+| Masa Bağlantı Vida Seti | Hırdavat | 20 | 100 | Set | *** |
 
 *(Not: 10'dan fazla ürünün tüm ikmal kuralları haritası `02_System_Configuration/Fuctional_Requirements/Reordering_Rules_Master.xlsx` dosyasında saklanmaktadır.)*
 
