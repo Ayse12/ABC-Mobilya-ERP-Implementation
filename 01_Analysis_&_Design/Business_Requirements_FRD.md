@@ -1,7 +1,7 @@
 
 # 📄 Functional Requirement Document (FRD)
-**Project Name:** AhşapDünyası Mobilya ERP Digital Transformation  
-**Target Organization:** AhşapDünyası Mobilya San. ve Tic. A.Ş.  
+**Project Name:**ABC Mobiya ERP Digital Transformation  
+**Target Organization:**ABC Mobiya San. ve Tic. A.Ş.  
 **Author:** Ayşe İlhanlı (Lead ERP Business Analyst)  
 **Version:** v1.0 | **Date:** October 2026  
 
@@ -17,7 +17,7 @@
 
 ## 2. Company Profile & Scope (Şirket Profili)
 
-* **Company Name:** AhşapDünyası Mobilya San. ve Tic. A.Ş.
+* **Company Name:**ABC Mobiya San. ve Tic. A.Ş.
 * **Industry:** Ahşap / MDF Ev Mobilyası İmalatı ve Perakende Satışı (Yemek odası, Yatak odası, TV üniteleri).
 * **Scale & Capacity:** 85 Çalışan (50 Mavi Yaka, 35 Beyaz Yaka/Saha/Mağaza Personeli).
 * **Operational Footprint:**
