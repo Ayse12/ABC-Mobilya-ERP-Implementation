@@ -33,7 +33,7 @@ Manuel stok kontrollerini ortadan kaldırmak ve üretim iş emirleri için malze
 | Masa Bağlantı Vida Seti | Hırdavat | 20 | 100 | Set | *** |
 
 *(Not: 10'dan fazla ürünün tüm ikmal kuralları haritası `02_System_Configuration/Fuctional_Requirements/Reordering_Rules_Master.xlsx` dosyasında saklanmaktadır.)*
-
+ 
 ---
 
 ## 3. Otomatik İş Akışının Çalıştırılması
