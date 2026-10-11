@@ -3,7 +3,7 @@
 ## 💡 İş Mantığı ve Odoo Entegrasyonu
 ABC Mobilya dijital dönüşüm projesinde, tedarik zinciri, üretim ve satış süreçlerinin hatasız ve entegre bir şekilde yürütülebilmesi için ana verilerin standardizasyonu kritik bir adımdır. Bu kapsamda:
 - **Ürün Kartları:** Hammaddeler, yarı mamuller ve bitmiş mamul mobilyalar belirli bir kodlama standardına (`HM`, `STK` vb.) ve sınıflandırmaya göre tanımlanmıştır.
-- **Cari Kartlar:** Tedarikçiler ve kurumsal müşteriler (örn. Pera Luxury Otelcilik A.Ş.) ticari ve finansal parametreleriyle sisteme kaydedilmiştir.
+- **Cari Kartlar:** Tedarikçiler ve kurumsal müşteriler (örn. Güven Hırdavat & Ray Sistemleri) ticari ve finansal parametreleriyle sisteme kaydedilmiştir.
 
 ---
 
