@@ -4,7 +4,7 @@ Target Organization: ABC Mobilya San. ve Tic. A.Ş.
 Author: Ayşe İlhanlı (Lead ERP Business Analyst)
 Module: Inventory & Logistics Management
 Requirement Reference: REQ-010 (Logistics & Dispatch Management)
-Version: v1.0 | Tarih: Ekim 2026
+Version: v1.0 | Date: October 2026
 
 1. Business Context & Objective
 Mevcut durumda (As-Is), imalatı ve kalite kontrolü tamamlanan ürünlerin sevkiyat süreçleri manuel irsaliyeler üzerinden yürütülmekte, depodan çıkan ürünlerin stok düşüşleri anlık olarak sisteme yansıtılamamaktaydı. Bu durum sevkiyat gecikmelerine ve stok tutarsızlıklarına yol açmaktaydı.
