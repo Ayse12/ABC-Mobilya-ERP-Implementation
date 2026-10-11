@@ -1,11 +1,6 @@
 # ⚙️ Logistics & Dispatch Management Configuration (REQ-010)
 
-**Project Name:** ABC Mobilya ERP Digital Transformation
-**Target Organization:** ABC Mobilya San. ve Tic. A.Ş.
-**Author:** Ayşe İlhanlı (Lead ERP Business Analyst)
-**Module:** Inventory & Logistics Management
-**Requirement Reference:** REQ-010 (Logistics & Dispatch Management)
-**Version:** v1.0 | **Date:** October 2026
+
 
 ---
 
