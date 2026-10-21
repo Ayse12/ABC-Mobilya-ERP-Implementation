@@ -3,12 +3,12 @@
 
 > **Odoo ERP Tabanlı Uçtan Uca Üretim, Tedarik, Kalite, Lojistik ve Finans Otomasyonu Simülasyonu**  
 > **Proje Sahibi / Baş İş Analisti:** Ayşe İlhanlı  
-> **Tarih:** Eylül- Ekim 2026 | **Versiyon:** v1.0 (Production-Ready)
+> **Tarih:** Eylül- Ekim 2026 | **Versiyon:** v1.0 
 
 ---
 
 ## 🎯 Proje Hakkında
-Bu repository, **ABC Mobilya San. ve Tic. A.Ş.**'nin manuel ve Excel tabanlı eski sisteminden (**As-Is**), modern entegre ERP yapısına (**To-Be**) geçiş süreçlerini belgelemek amacıyla hazırlanmıştır. Projede, mobilya imalatı ve perakende sektörüne özel 12 temel fonksiyonel gereksinim (REQ-001 - REQ-012) **Odoo ERP** üzerinde uçtan uca kurgulanmış ve test edilmiştir.
+Bu repository, **ABC Mobilya San. ve Tic. A.Ş.**'nin manuel ve Excel tabanlı eski sisteminden (**As-Is**), modern entegre ERP yapısına (**To-Be**) geçiş süreçlerini belgelemek amacıyla hazırlanmıştır. Projede, mobilya imalatı ve perakende sektörüne özel 12 temel fonksiyonel gereksinim (REQ-001 - REQ-012) **Odoo ERP** üzerinde uçtan uca kurgulanmıştır.
 
 ---
 
